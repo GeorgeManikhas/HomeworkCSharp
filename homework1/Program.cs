@@ -24,3 +24,39 @@ else
 
 // Задача 4.
 // Напишите программу, которая принимает на вход три числа и выдаёт максимальное из этих чисел.
+
+/*
+
+Console.Write("Input the first number:  ");
+int a = Convert.ToInt32(Console.ReadLine());
+Console.Write("Input the second number:  ");
+int b = Convert.ToInt32(Console.ReadLine());
+Console.Write("Input the third number:  ");
+int c = Convert.ToInt32(Console.ReadLine());
+
+if(a>b)
+{
+    if(a>c)
+    {
+        Console.WriteLine(a);
+    }
+    else
+    {
+        Console.WriteLine(c);
+    }
+}
+else
+{
+    if(b>c)
+    {
+        Console.WriteLine(b);
+    }
+    else
+    {
+        Console.WriteLine(c);
+    }
+}
+
+
+*/
+
