@@ -108,6 +108,8 @@ while(b<=a)
 
 // Второе, как кажется более простое решение задачи 8:
 
+/*
+
 Console.Write("Input a number:  ");
 int a = Convert.ToInt32(Console.ReadLine());
 
@@ -118,3 +120,5 @@ while(b<=a)
     Console.Write(b + " ");
     b=b+2;
 }
+
+*/
